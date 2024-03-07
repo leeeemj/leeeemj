@@ -16,7 +16,6 @@
 
 [삐용](https://www.notion.so/08c40b99b940428b97bd693e93dd2cbb?pvs=4)
 
-[눈길](https://www.notion.so/31d2b0b81f9d440198bf052f79954303?pvs=4)
 
 ## ✨스택
 
