@@ -12,9 +12,9 @@
 
 
 ## 🎬프로젝트 정리
-[글리쉐](https://www.notion.so/Global-Risk-Share-55affea859f34d14bd680d4d708ab1a1)
+[글리쉐]([[https://www.notion.so/Global-Risk-Share-55affea859f34d14bd680d4d708ab1a1](https://www.notion.so/08c40b99b940428b97bd693e93dd2cbb?pvs=4)](https://www.notion.so/Global-Risk-Share-55affea859f34d14bd680d4d708ab1a1?pvs=4))
 
-[삐용](https://www.notion.so/08c40b99b940428b97bd693e93dd2cbb?pvs=4)
+[삐용]([https://www.notion.so/08c40b99b940428b97bd693e93dd2cbb?pvs=4](https://www.notion.so/08c40b99b940428b97bd693e93dd2cbb?pvs=4))
 
 
 ## ✨스택
