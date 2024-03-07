@@ -11,7 +11,7 @@
 [어흥올림픽 최우수상 수상](https://github.com/2023-AHEUNGTHON/TEAM_7_2) <br>
 
 
-## 🎬프로젝트 
+## 🎬프로젝트 정리
 [글리쉐](https://www.notion.so/Global-Risk-Share-55affea859f34d14bd680d4d708ab1a1)
 
 [삐용](https://www.notion.so/08c40b99b940428b97bd693e93dd2cbb?pvs=4)
