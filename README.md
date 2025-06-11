@@ -1,12 +1,12 @@
-## 🏫학교 
+## 🏫 University
 상명대학교 휴먼지능정보공학과
 
-## 📢활동
-멋쟁이사자처럼 대학 11기 프론트엔드<br>
-멋쟁이사자처럼 대학 12기 백엔드(Django)<br>
+## 📢 Activities
+Likelion univ 11th frontend<br>
+Likelion univ 12th Backend(Django)<br>
 UMC 7th Server(Springboot)<br>
 
-## ✨스택
+## ✨Stack
 <div> 
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
