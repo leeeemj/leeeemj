@@ -1,5 +1,5 @@
 ## 🏫 University
-상명대학교 휴먼지능정보공학과
+SangMyung Univ - Human centered Ai
 
 ## 📢 Activities
 Likelion univ 11th frontend<br>
